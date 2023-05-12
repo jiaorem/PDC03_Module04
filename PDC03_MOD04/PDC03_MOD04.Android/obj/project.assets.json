@@ -3408,24 +3408,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\USER\\.nuget\\packages\\": {},
-    "D:\\Program Files\\Microsoft Visual Studio\\VisualStudioSharedComponents\\NuGetPackages": {}
+    "C:\\Users\\User\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\USER\\source\\repos\\PDC03_MOD04\\PDC03_MOD04\\PDC03_MOD04.Android\\PDC03_MOD04.Android.csproj",
+      "projectUniqueName": "C:\\Users\\User\\source\\repos\\PDC03-Module04-Activity01\\PDC03_MOD04\\PDC03_MOD04.Android\\PDC03_MOD04.Android.csproj",
       "projectName": "PDC03_MOD04.Android",
-      "projectPath": "C:\\Users\\USER\\source\\repos\\PDC03_MOD04\\PDC03_MOD04\\PDC03_MOD04.Android\\PDC03_MOD04.Android.csproj",
-      "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\USER\\source\\repos\\PDC03_MOD04\\PDC03_MOD04\\PDC03_MOD04.Android\\obj\\",
+      "projectPath": "C:\\Users\\User\\source\\repos\\PDC03-Module04-Activity01\\PDC03_MOD04\\PDC03_MOD04.Android\\PDC03_MOD04.Android.csproj",
+      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\User\\source\\repos\\PDC03-Module04-Activity01\\PDC03_MOD04\\PDC03_MOD04.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
-        "D:\\Program Files\\Microsoft Visual Studio\\VisualStudioSharedComponents\\NuGetPackages"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -3439,8 +3439,8 @@
       "frameworks": {
         "monoandroid13.0": {
           "projectReferences": {
-            "C:\\Users\\USER\\source\\repos\\PDC03_MOD04\\PDC03_MOD04\\PDC03_MOD04\\PDC03_MOD04.csproj": {
-              "projectPath": "C:\\Users\\USER\\source\\repos\\PDC03_MOD04\\PDC03_MOD04\\PDC03_MOD04\\PDC03_MOD04.csproj"
+            "C:\\Users\\User\\source\\repos\\PDC03-Module04-Activity01\\PDC03_MOD04\\PDC03_MOD04\\PDC03_MOD04.csproj": {
+              "projectPath": "C:\\Users\\User\\source\\repos\\PDC03-Module04-Activity01\\PDC03_MOD04\\PDC03_MOD04\\PDC03_MOD04.csproj"
             }
           }
         }

@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\USER\\source\\repos\\PDC03_MOD04\\PDC03_MOD04\\PDC03_MOD04\\PDC03_MOD04.csproj": {}
+    "C:\\Users\\User\\source\\repos\\PDC03-Module04-Activity01\\PDC03_MOD04\\PDC03_MOD04\\PDC03_MOD04.csproj": {}
   },
   "projects": {
-    "C:\\Users\\USER\\source\\repos\\PDC03_MOD04\\PDC03_MOD04\\PDC03_MOD04\\PDC03_MOD04.csproj": {
+    "C:\\Users\\User\\source\\repos\\PDC03-Module04-Activity01\\PDC03_MOD04\\PDC03_MOD04\\PDC03_MOD04.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USER\\source\\repos\\PDC03_MOD04\\PDC03_MOD04\\PDC03_MOD04\\PDC03_MOD04.csproj",
+        "projectUniqueName": "C:\\Users\\User\\source\\repos\\PDC03-Module04-Activity01\\PDC03_MOD04\\PDC03_MOD04\\PDC03_MOD04.csproj",
         "projectName": "PDC03_MOD04",
-        "projectPath": "C:\\Users\\USER\\source\\repos\\PDC03_MOD04\\PDC03_MOD04\\PDC03_MOD04\\PDC03_MOD04.csproj",
-        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USER\\source\\repos\\PDC03_MOD04\\PDC03_MOD04\\PDC03_MOD04\\obj\\",
+        "projectPath": "C:\\Users\\User\\source\\repos\\PDC03-Module04-Activity01\\PDC03_MOD04\\PDC03_MOD04\\PDC03_MOD04.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User\\source\\repos\\PDC03-Module04-Activity01\\PDC03_MOD04\\PDC03_MOD04\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "D:\\Program Files\\Microsoft Visual Studio\\VisualStudioSharedComponents\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
